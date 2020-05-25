@@ -1,0 +1,37 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {I}Declaration}{3}{section.1}%
+\contentsline {section}{\numberline {II}Introduction}{3}{section.2}%
+\contentsline {section}{\numberline {III}Requirements}{3}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}Network requirements}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-A}1}Reliability}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-A}2}Interactivity}{3}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-A}3}Security}{3}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {\mbox {III-A}4}Adaptability}{3}{subsubsection.3.1.4}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Application requirements}{3}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-B}1}Student Management application systems}{3}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {\mbox {III-B}2}Administration Management application systems}{4}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {\mbox {III-B}3}Application running on students and laboratories systems}{4}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {IV}Network design}{4}{section.4}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}High level design overview}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {\mbox {IV-B}}Internet access}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {\mbox {IV-C}}Network optimization}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {\mbox {IV-D}}Security}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {\mbox {IV-E}}IP addressing}{6}{subsection.4.5}%
+\contentsline {subsection}{\numberline {\mbox {IV-F}}OSI model}{7}{subsection.4.6}%
+\contentsline {section}{\numberline {V}Implementation}{7}{section.5}%
+\contentsline {subsection}{\numberline {\mbox {V-A}}Network implementation using Cisco Packet Tracer}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {\mbox {V-B}}VLAN configuration}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {\mbox {V-C}}VLAN INTERFACES CONFIGURATION}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {\mbox {V-D}}DHCP CONFIGURATION}{9}{subsection.5.4}%
+\contentsline {subsection}{\numberline {\mbox {V-E}}HSRP CONFIGURATION}{10}{subsection.5.5}%
+\contentsline {subsection}{\numberline {\mbox {V-F}}Trunking}{11}{subsection.5.6}%
+\contentsline {subsection}{\numberline {\mbox {V-G}}HSRP - Synchronization of primary routers with the bridge}{12}{subsection.5.7}%
+\contentsline {subsection}{\numberline {\mbox {V-H}}Spanning-Tree configuration}{12}{subsection.5.8}%
+\contentsline {subsection}{\numberline {\mbox {V-I}}Access layer port configuration}{13}{subsection.5.9}%
+\contentsline {subsection}{\numberline {\mbox {V-J}}Switch port security}{13}{subsection.5.10}%
+\contentsline {subsection}{\numberline {\mbox {V-K}}EIGRP}{13}{subsection.5.11}%
+\contentsline {subsection}{\numberline {\mbox {V-L}}Router configuration}{13}{subsection.5.12}%
+\contentsline {subsection}{\numberline {\mbox {V-M}}Authorization}{15}{subsection.5.13}%
+\contentsline {section}{\numberline {VI}Results and Discussion}{15}{section.6}%
+\contentsline {section}{\numberline {VII}Conclusion}{17}{section.7}%
+\contentsline {section}{\numberline {VIII}Bibliography}{18}{section.8}%
